@@ -9,5 +9,5 @@ Started this project after finishing a course on program design using the C lang
 ###Ports
 I would eventually like to port this game to a cross-platform framework with a GUI but still keep the text based interaction just add art and a menu system.
 
-####EDIT
+######EDIT
 Noticed the indentation is all wanky in the source file. Don't know what happened with the encoding?..
